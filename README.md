@@ -1,6 +1,8 @@
 # malp
 Maximum agreement regression Use malp With (In) R Software
 
+https://www.youtube.com/watch?v=vkvKuWwgFLU
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
